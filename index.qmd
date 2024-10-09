@@ -3,17 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG20240226153602.jpg
 ---
 
 :::{#me}
 
 ## Goals
+To be a top notch mangrove ecologist
 
 ## Education
+Bsc in Forestry from Khulna University
+
+Msc in Forestry From Khulna University
+
+Msc in Integrative Biology from University of New Hampshire (Ongoing)
 
 ## Experience
-
+Graduate Research Assistant in Moore lab, University of New Hampshire
 :::
 
 Thanks for checking out my web site!
